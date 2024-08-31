@@ -1,1 +1,1 @@
-# phase3-project
+Phase3-project: SyriaTel Customer Churn Project
